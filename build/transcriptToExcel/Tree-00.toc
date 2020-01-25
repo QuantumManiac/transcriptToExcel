@@ -1,0 +1,5 @@
+('e:\\chamath\\documents\\cs\\transcripttoexcel\\transcripttoexcel\\venv\\lib\\site-packages\\xlsxwriter-1.1.5-py3.7.egg',
+ None,
+ {'*.pyw', 'EGG-INFO', '*.py', '*.pyd', '*.pyc', '*.cp37-win_amd64.pyd'},
+ 'DATA',
+ [])
